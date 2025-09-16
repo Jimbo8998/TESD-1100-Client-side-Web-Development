@@ -29,14 +29,14 @@ h1 {
 img {
    display: block;
    float: right;
-   width: 370px;
+   width: 378px;
    margin: 0px 0px 10px 20px;
-   box-shadow: 3px 3px 20px black;
+   box-shadow: 4px 4px 20px black;
 }
 
 p {
    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-   font-size: 1.2em;
+   font-size: 1.15em;
    line-height: 1.4em;
 }
 ul {
